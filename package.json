@@ -1,0 +1,18 @@
+{
+  "name": "Scrim-s06hb3k",
+  "description": "https://scrimba.com/memory-game-in-react-c0a3odsk39/~032c/s0koicm6k1/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "vite": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4"
+  }
+}
